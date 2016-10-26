@@ -1,0 +1,21 @@
+----------ChromeDriver v2.25 (2016-10-25)----------
+Supports Chrome v53-55
+Resolved issue 1547: Chromedriver crashes during event Runtime.consoleAPICalled [['OS-All', 'Pri-1']]
+Resolved issue 1514: GetLog command times out if an alert is showing [['OS-All', 'Pri-1']]
+Resolved issue 1460: "Disable Developer Mode Extensions" exists on Mac, but not Windows [[]]
+
+----------ChromeDriver v2.24 (2016-09-09)----------
+Supports Chrome v52-54
+Resolved issue 1497: GetLog fails when the current window is closed [['OS-All', 'Pri-0']]
+Resolved issue 1495: ChromeDriver crashes with "Check failed: !page_load_strategy_.empty()" [['OS-All', 'Pri-0']]
+Resolved issue 1463: SessionNotCreatedException: Runtime.evaluate missing 'wasThrown' on Chrome 54+ [['OS-All', 'Pri-0']]
+Resolved issue 1484: SendKeys of a Tab Key has no effect in Chrome 53 [['OS-All', 'Pri-1']]
+Resolved issue 1431: GetLog command does not work for Chrome 54+ [['OS-All', 'Pri-1']]
+Resolved issue 1411: sendKeys generates events that are missing some fields [['OS-All', 'Pri-1']]
+Resolved issue 1451: Chrome 54+ session not created exception: Runtime.executionContextCreated has invalid 'context' [['Pri-1']]
+Resolved issue 984: Extend ChromeDriver capabilities to cover network throttling feature from Chrome DevTools [['OS-All', 'Pri-2']]
+Resolved issue 1454: Net::ReadTimeout error on launching Canary v54 through RemoteWebDriver [[]]
+----------ChromeDriver v2.23 (2016-08-04)----------
+Supports Chrome v51-53
+Resolved issue 1378: Android 6: Intitialization of Chrome driver fails when Chrome/Webview process is in running (R) state [['OS-Android', 'Pri-1']]
+Resolved issue 1379: Chromedriver does not catch all available browser console log entries [['OS-All', 'Pri-2']]

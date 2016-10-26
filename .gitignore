@@ -1,4 +1,8 @@
 #IDEA Files
-.idea
-*.iml
+#.idea
+#*.iml
 target
+/.idea/libraries/
+/.idea/workspace.xml
+/.idea/atlassian-ide-plugin.xml
+/.idea/dictionaries/
